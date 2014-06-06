@@ -1,4 +1,4 @@
-class Anime(object):{% if row.status == "OK"  %}success{% endif %}
+class Anime(object):
     size = 0
     name = ''
     bitrate = 0

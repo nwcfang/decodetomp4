@@ -1,0 +1,19 @@
+# файлы для pycharm
+.idea/
+.ropeproject/*
+#виртуальное окружение
+env/*
+
+touchme
+
+# south migrations
+webface/migrations/*
+
+*~
+*.pyc
+*.txt
+*.patch
+cast_the_file.sh
+# Исключаем актуальные настройки settings.ini
+# Если потребуется обновить дефолтный конфиг используйте прямое добавление
+settings.ini
